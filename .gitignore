@@ -1,0 +1,4 @@
+#plik gitignore
+#bez katalogu debug i build
+debug/
+build/
